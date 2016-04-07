@@ -1,0 +1,17 @@
+/Users/sametgolgeci/UnityProject/Mario2D/Temp/bin/Debug/UnityEngine.dll
+/Users/sametgolgeci/UnityProject/Mario2D/Temp/bin/Debug/UnityEditor.dll
+/Users/sametgolgeci/UnityProject/Mario2D/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/sametgolgeci/UnityProject/Mario2D/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/sametgolgeci/UnityProject/Mario2D/Temp/bin/Debug/Mono.Cecil.dll
+/Users/sametgolgeci/UnityProject/Mario2D/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/sametgolgeci/UnityProject/Mario2D/Temp/bin/Debug/Unity.DataContract.dll
+/Users/sametgolgeci/UnityProject/Mario2D/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/sametgolgeci/UnityProject/Mario2D/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/sametgolgeci/UnityProject/Mario2D/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/sametgolgeci/UnityProject/Mario2D/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/sametgolgeci/UnityProject/Mario2D/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/sametgolgeci/UnityProject/Mario2D/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/sametgolgeci/UnityProject/Mario2D/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/sametgolgeci/UnityProject/Mario2D/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/sametgolgeci/UnityProject/Mario2D/obj/Debug/Assembly-CSharp.dll
+/Users/sametgolgeci/UnityProject/Mario2D/obj/Debug/Assembly-CSharp.dll.mdb
